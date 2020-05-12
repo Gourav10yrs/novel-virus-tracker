@@ -1,0 +1,46 @@
+.prevention {
+    padding: 45px 25px;
+    box-shadow: 0 15px 30px rgba(77,87,222,.15);
+    background: #fff;
+    margin-top: 30px;
+    width: 80%;
+}
+.intro {
+    text-align: center;
+}
+
+.imgPrevention{
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 4px auto;
+}
+.headText {
+    margin-bottom: 0px;
+}
+.cu62s{
+    color: #e94235;
+    font-weight: bold;
+}
+.V4tsWe {
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 4px;
+}
+.W7Av8d {
+    font-weight: bold;
+    margin: 0 auto 18px auto;
+}
+
+.ptUM8e {
+    font-size: 14px;
+    margin: auto;
+    display: inline-block;
+    text-align: left;
+    padding: 0 16px 0 37px;
+}
+
+@media(max-width: 770px) { 
+    .prevention {
+        width: 100%;
+    }
+}
