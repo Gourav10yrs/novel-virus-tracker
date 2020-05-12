@@ -1,0 +1,13 @@
+.symptoms {
+    padding: 45px 25px;
+    box-shadow: 0 15px 30px rgba(77,87,222,.15);
+    background: #fff;
+    margin-top: 30px;
+    width: 80%;
+}
+
+@media(max-width: 770px) { 
+    .symptoms {
+        width: 100%;
+    }
+}

@@ -4,6 +4,7 @@
 
 .card {
     margin: 0 2% !important;
+    box-shadow: 0 15px 30px rgba(77,87,222,.15) !important;
 }
 .infected {
     border-bottom: 10px solid rgba(0, 0, 255, 0.5);
